@@ -5,4 +5,4 @@ Desktop application made using python which notifies every hour about the recent
 
 Following are screenshots of the app : 
 
-<img src="https://raw.githubusercontent.com/RajGorhekar/COVID_tracker/master/ss1.png" width ="900"  />.
+<img src="https://raw.githubusercontent.com/RajGorhekar/COVID_tracker/master/ss1.png" width ="950"  />.
